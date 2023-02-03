@@ -7,7 +7,7 @@ Directory structure:
 
 * [block_analyses](https://github.com/eonadler/cv-color-perception/tree/main/block_analyses) contains perceptual analysis and survey  code for comparison code for block images;
 
-* [coherence_analyses](https://github.com/eonadler/cv-color-perception/tree/main/embeddings) contains code for generating and clustering DNN and wavelet embeddings;
+* [embeddings](https://github.com/eonadler/cv-color-perception/tree/main/embeddings) contains code for generating and clustering DNN and wavelet embeddings;
 
 To run the notebooks:
 
